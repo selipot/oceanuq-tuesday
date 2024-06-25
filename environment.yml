@@ -1,0 +1,15 @@
+name: oceanuq-tuesday
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - clouddrift
+  - scipy
+  - matplotlib
+  - ipykernel
+  - ipython
+  - dask
+  # Add any additional dependencies here
